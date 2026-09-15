@@ -1,0 +1,28 @@
+.app-container{
+  display: flex;
+}
+.content{
+  width: 100%;
+}
+.sidebar{
+  min-height: 585px;
+}
+.post-card{
+  margin: 20px 30px;
+}
+.hastags{
+  margin: 0px 3px;
+}
+.reaction{
+  margin: 15px 0 0 0;
+}
+.creat-post{
+  width: 80%;
+  margin-left: 10%;
+  margin-top: 5%;
+}
+.No-posts{
+  font-size: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 600;
+}
